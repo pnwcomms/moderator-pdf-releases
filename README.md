@@ -34,4 +34,4 @@ Open the `.apk` from your browser's downloads or a file manager, and allow that 
 Once installed, the app looks for a new version when it starts and offers to update. You can also check from Help > Check for Updates, and turn the automatic check off from the same tab.
 
 - Windows and Linux update inside the app. Linux asks for your password to install.
-- Android opens the new `.apk` in your browser to download, and you confirm the install.
+- Android downloads the update in the app, then asks you to confirm the install. The first time, it also asks you to allow Moderator PDF to install updates.
